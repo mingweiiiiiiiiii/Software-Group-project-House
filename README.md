@@ -29,7 +29,9 @@ A key feature that our client wanted us to have in our project, was two separate
 3. Start the application: `npm start`
 
 ## Demo
-[![Watch the video](https://img.youtube.com/vi/Gr0yK_P-YLo/maxresdefault.jpg)](https://www.youtube.com/watch?v=Gr0yK_P-YLo)
+
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://www.youtube.com/watch?v=Gr0yK_P-YLo)
+
 
 
 
