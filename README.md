@@ -29,5 +29,6 @@ A key feature that our client wanted us to have in our project, was two separate
 3. Start the application: `npm start`
 
 ## Demo
-![Video Demo](Demo.mp4)
+[![Video Demo](http://img.youtube.com/vi/Gr0yK_P-YLo/0.jpg)](http://www.youtube.com/watch?v=Gr0yK_P-YLo "Video Demo")
+
 
