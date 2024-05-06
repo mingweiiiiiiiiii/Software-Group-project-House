@@ -29,7 +29,7 @@ A key feature that our client wanted us to have in our project, was two separate
 3. Start the application: `npm start`
 
 ## Demo
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Gr0yK_P-YLo "Now in Android: 55")
+[![Watch the video](https://img.youtube.com/vi/Gr0yK_P-YLo/maxresdefault.jpg)](https://www.youtube.com/watch?v=Gr0yK_P-YLo)
 
 
 
