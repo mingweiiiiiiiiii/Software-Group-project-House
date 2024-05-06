@@ -27,3 +27,10 @@ A key feature that our client wanted us to have in our project, was two separate
 1. Navigate to local repository: `cd front-end/` 
 2. Install all npm packages `npm install`
 3. Start the application: `npm start`
+
+## Demo
+<video width="640" height="360" controls>
+  <source src="Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
